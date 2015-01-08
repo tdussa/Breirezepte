@@ -1,6 +1,6 @@
 # Birnenkompott
 
-## Zutaten (für etwa 20 Portionen Zugaben zum Milchbrei)
+## Zutaten (für etwa 20 Portionen Zugaben zum [Milchbrei](https://github.com/tdussa/Breirezepte/blob/master/Milchmahlzeiten/Milchbrei%20mit%20Obst.md))
  + 1 kg reife Birnen
  + etwas Wasser
 
