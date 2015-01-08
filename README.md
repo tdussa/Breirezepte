@@ -1,5 +1,5 @@
 # Breirezepte
 
-Breirezepte für den Thermomix; im wesentlichen zwei Klassen:
+Breirezepte für den Thermomix:
  + Milchmahlzeiten bzw. Kompotte
  + Hauptmahlzeiten (alles andere)
