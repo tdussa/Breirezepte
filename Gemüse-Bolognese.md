@@ -12,7 +12,9 @@
  + 200-300 g gekochte Nudeln oder Vollkornnudeln
 
 ## Zubereitung
- + Gemüse, Fleisch, Wasser, Öl wie Rote-Beete-Kartoffel-Brei zubereiten
+ + Gemüse, Fleisch, Wasser, Öl wie
+   [Rote-Beete-Kartoffel-Brei](https://github.com/tdussa/Breirezepte/blob/master/Rote-Beete-Kartoffelbrei.md)
+   zubereiten
  + Nudeln hinzugeben
  + 2-3 min kochen
  + nochmals pürieren

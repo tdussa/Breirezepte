@@ -5,4 +5,4 @@
  + 300 g reife Spätzwetschgen
 
 ## Zubereitung
- + wie Birnenkompott.
+ + wie [Birnenkompott](https://github.com/tdussa/Breirezepte/blob/master/Birnenkompott.md)

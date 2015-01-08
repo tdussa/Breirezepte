@@ -8,4 +8,5 @@
  + 25 g Öl
 
 ## Zubereitung
- + wie Rote-Beete-Kartoffelbrei
+ + wie
+   [Rote-Beete-Kartoffel-Brei](https://github.com/tdussa/Breirezepte/blob/master/Rote-Beete-Kartoffelbrei.md)

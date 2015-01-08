@@ -4,4 +4,4 @@
  + 1 kg reife milde Äpfel (Jonagold, Golden Delicious)
 
 ## Zubereitung
- + wie Birnenkompott.
+ + wie [Birnenkompott](https://github.com/tdussa/Breirezepte/blob/master/Birnenkompott.md).

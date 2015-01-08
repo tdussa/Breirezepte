@@ -6,4 +6,4 @@
  + 200 g reife Birnen
 
 ## Zubereitung
- + wie Birnenkompott.
+ + wie [Birnenkompott](https://github.com/tdussa/Breirezepte/blob/master/Birnenkompott.md)
