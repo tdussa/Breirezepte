@@ -10,7 +10,7 @@
 
 ## Zubereitung
  + Brokkoli, Kohlrabi, Putenschnitzel, Wasser, Öl wie
-   [Rote-Beete-Kartoffel-Brei](https://github.com/tdussa/Breirezepte/blob/master/Rote-Beete-Kartoffelbrei.md)
+   [Rote-Beete-Kartoffel-Brei](https://github.com/tdussa/Breirezepte/blob/master/Hauptmahlzeiten/Rote-Beete-Kartoffelbrei.md)
    zubereiten
  + Reis hinzugeben
  + 4-5 min kochen
